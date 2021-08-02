@@ -10,5 +10,6 @@ The algorithm is summarized as follow, where
 - *W* is the maximum allowed weight (in total).
 - *n* is the total number of items.
 - *w* is the integer number between 0<=w<=W.
+- *w_i* is the weight of the *i^th* item.
 
 ![image](https://user-images.githubusercontent.com/58306478/127891625-fd02a278-0e3a-476c-bd6e-9d764d38a78a.png)
